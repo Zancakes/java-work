@@ -31,8 +31,12 @@ Staff Login Page.
 
 ![image](https://user-images.githubusercontent.com/116748734/198950485-b5c70119-dabc-4e39-a62b-ecbef730ade6.png)
 
+Login failure.
+
 
 ![image](https://user-images.githubusercontent.com/116748734/198950520-f209481c-e150-4bef-8376-fd3527f73abb.png)
+
+Login success.
 
 
 ![image](https://user-images.githubusercontent.com/116748734/198950598-975f6123-e84a-41c3-bf6d-40a835fd1f88.png)
