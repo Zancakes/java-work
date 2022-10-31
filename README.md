@@ -11,13 +11,17 @@ Main Menu page.
 
 ![image](https://user-images.githubusercontent.com/116748734/198950144-302f65bd-5392-48c4-aba7-4a8ea8d63034.png)
 
-Vending Machine GUI
+Vending Machine GUI.
 
 
 ![image](https://user-images.githubusercontent.com/116748734/198950255-35707888-3445-4efd-a9d5-a0d3b9ad2765.png)
 
+Insufficient funds.
+
 
 ![image](https://user-images.githubusercontent.com/116748734/198950373-95be8c1f-780c-4d10-8a64-3bc6f03d1198.png)
+
+Purchase success.
 
 
 ![image](https://user-images.githubusercontent.com/116748734/198950418-6ed563d3-1415-4584-98cc-ac680cbe6693.png)
